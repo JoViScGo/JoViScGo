@@ -1,7 +1,23 @@
-## Hi there 👋
+## Olá, meu nome é **João Vitor** 👋
 
+
+<div>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=JoViScGo&show_icons=true&theme=holi&include_all_comits=true">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoViScGo&show_icons=true&theme=holi&layout=compact">
+</div>
+
+
+
+🌱 **Estudando**:
+  - Desenvolvivmento Back-end.
+  - Desenvolvimento Front-end.
 <!--
 **JoViScGo/JoViScGo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![João Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=JoViScGo&show_icons=true&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoViScGo&show_icons=true&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 Here are some ideas to get you started:
 
