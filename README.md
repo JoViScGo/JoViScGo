@@ -2,6 +2,7 @@
 
 
 <div>
+  <img height="200em" src="[https://github-readme-stats.vercel.app/api?username=Joao-Vitor-Schonberger&show_icons=true&theme=holi&include_all_comits=true">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Joao-Vitor-Schonberger&show_icons=true&theme=holi&include_all_comits=true">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Vitor-Schonberger&show_icons=true&theme=holi&layout=compact">
 
